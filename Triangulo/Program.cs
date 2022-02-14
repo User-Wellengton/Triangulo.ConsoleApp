@@ -14,6 +14,7 @@ namespace Triangulo
 
             Console.WriteLine("Digite 1 para verificar o tipo do triângulo");
 
+
             Console.WriteLine("Digite S para sair");
 
             opcao = Console.ReadLine();
